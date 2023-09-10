@@ -1,0 +1,794 @@
+2023-09-10T09:35:14.483Z [Modules] Modules initializing
+2023-09-10T09:35:14.483Z [Modules] Distribution: remote
+2023-09-10T09:35:14.483Z [Modules] Host updates: enabled
+2023-09-10T09:35:14.484Z [Modules] Module updates: enabled
+2023-09-10T09:35:14.484Z [Modules] Module install path: /home/alpha/.config/discord/0.0.29/modules
+2023-09-10T09:35:14.484Z [Modules] Module installed file path: /home/alpha/.config/discord/0.0.29/modules/installed.json
+2023-09-10T09:35:14.484Z [Modules] Module download path: /home/alpha/.config/discord/0.0.29/modules/pending
+2023-09-10T09:35:14.722Z [Modules] Bootstrapping...
+2023-09-10T09:35:14.723Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-09-10T09:35:14.726Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-09-10T09:35:14.726Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-09-10T09:35:14.728Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-09-10T09:35:14.728Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-09-10T09:35:14.729Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-09-10T09:35:14.730Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-09-10T09:35:14.730Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-09-10T09:35:14.731Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-09-10T09:35:14.732Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-09-10T09:35:14.732Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-09-10T09:35:14.732Z [Modules] Checking for host updates.
+2023-09-10T09:35:15.014Z [Modules] Host is up to date.
+2023-09-10T09:35:15.014Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T09:35:15.112Z [Modules] Module update available: discord_desktop_core@2 [installed: 0]
+2023-09-10T09:35:15.113Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-09-10T09:35:15.113Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-09-10T09:35:15.113Z [Modules] Module update available: discord_utils@2 [installed: 0]
+2023-09-10T09:35:15.113Z [Modules] Module update available: discord_voice@2 [installed: 0]
+2023-09-10T09:35:15.115Z [Modules] Fetching discord_desktop_core@2 from https://discord.com/api/modules/stable/discord_desktop_core/2
+2023-09-10T09:35:15.116Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip
+2023-09-10T09:35:15.399Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 1%
+2023-09-10T09:35:15.404Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 2%
+2023-09-10T09:35:15.425Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 3%
+2023-09-10T09:35:15.433Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 5%
+2023-09-10T09:35:15.453Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 6%
+2023-09-10T09:35:15.457Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 7%
+2023-09-10T09:35:15.464Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 10%
+2023-09-10T09:35:15.472Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 11%
+2023-09-10T09:35:15.474Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 12%
+2023-09-10T09:35:15.477Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 13%
+2023-09-10T09:35:15.483Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 14%
+2023-09-10T09:35:15.484Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 15%
+2023-09-10T09:35:15.486Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 16%
+2023-09-10T09:35:15.487Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 17%
+2023-09-10T09:35:15.490Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 18%
+2023-09-10T09:35:15.491Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 19%
+2023-09-10T09:35:15.493Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 20%
+2023-09-10T09:35:15.500Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 21%
+2023-09-10T09:35:15.501Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 22%
+2023-09-10T09:35:15.503Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 23%
+2023-09-10T09:35:15.505Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 24%
+2023-09-10T09:35:15.511Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 25%
+2023-09-10T09:35:15.512Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 26%
+2023-09-10T09:35:15.513Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 27%
+2023-09-10T09:35:15.516Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 28%
+2023-09-10T09:35:15.518Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 29%
+2023-09-10T09:35:15.519Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 30%
+2023-09-10T09:35:15.521Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 31%
+2023-09-10T09:35:15.524Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 32%
+2023-09-10T09:35:15.526Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 33%
+2023-09-10T09:35:15.527Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 34%
+2023-09-10T09:35:15.530Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 35%
+2023-09-10T09:35:15.531Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 36%
+2023-09-10T09:35:15.533Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 37%
+2023-09-10T09:35:15.535Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 38%
+2023-09-10T09:35:15.538Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 39%
+2023-09-10T09:35:15.540Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 40%
+2023-09-10T09:35:15.541Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 41%
+2023-09-10T09:35:15.545Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 42%
+2023-09-10T09:35:15.550Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 43%
+2023-09-10T09:35:15.551Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 44%
+2023-09-10T09:35:15.553Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 45%
+2023-09-10T09:35:15.556Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 46%
+2023-09-10T09:35:15.557Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 47%
+2023-09-10T09:35:15.558Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 48%
+2023-09-10T09:35:15.561Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 49%
+2023-09-10T09:35:15.562Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 50%
+2023-09-10T09:35:15.565Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 51%
+2023-09-10T09:35:15.566Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 52%
+2023-09-10T09:35:15.569Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 53%
+2023-09-10T09:35:15.570Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 54%
+2023-09-10T09:35:15.572Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 55%
+2023-09-10T09:35:15.576Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 56%
+2023-09-10T09:35:15.578Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 57%
+2023-09-10T09:35:15.579Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 58%
+2023-09-10T09:35:15.581Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 59%
+2023-09-10T09:35:15.586Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 60%
+2023-09-10T09:35:15.588Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 61%
+2023-09-10T09:35:15.589Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 62%
+2023-09-10T09:35:15.592Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 63%
+2023-09-10T09:35:15.593Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 64%
+2023-09-10T09:35:15.595Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 65%
+2023-09-10T09:35:15.597Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 66%
+2023-09-10T09:35:15.600Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 67%
+2023-09-10T09:35:15.601Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 68%
+2023-09-10T09:35:15.603Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 69%
+2023-09-10T09:35:15.606Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 70%
+2023-09-10T09:35:15.607Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 71%
+2023-09-10T09:35:15.609Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 72%
+2023-09-10T09:35:15.610Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 73%
+2023-09-10T09:35:15.614Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 74%
+2023-09-10T09:35:15.616Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 75%
+2023-09-10T09:35:15.617Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 76%
+2023-09-10T09:35:15.620Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 77%
+2023-09-10T09:35:15.621Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 78%
+2023-09-10T09:35:15.623Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 79%
+2023-09-10T09:35:15.624Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 80%
+2023-09-10T09:35:15.627Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 81%
+2023-09-10T09:35:15.628Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 82%
+2023-09-10T09:35:15.630Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 83%
+2023-09-10T09:35:15.635Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 84%
+2023-09-10T09:35:15.637Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 85%
+2023-09-10T09:35:15.638Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 86%
+2023-09-10T09:35:15.639Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 87%
+2023-09-10T09:35:15.642Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 88%
+2023-09-10T09:35:15.644Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 89%
+2023-09-10T09:35:15.645Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 90%
+2023-09-10T09:35:15.648Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 91%
+2023-09-10T09:35:15.650Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 92%
+2023-09-10T09:35:15.652Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 93%
+2023-09-10T09:35:15.653Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 94%
+2023-09-10T09:35:15.656Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 95%
+2023-09-10T09:35:15.657Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 96%
+2023-09-10T09:35:15.659Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 97%
+2023-09-10T09:35:15.666Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 98%
+2023-09-10T09:35:15.667Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 99%
+2023-09-10T09:35:15.668Z [Modules] Streaming discord_desktop_core@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip: 100%
+2023-09-10T09:35:15.669Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-09-10T09:35:15.669Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip
+2023-09-10T09:35:15.853Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 1%
+2023-09-10T09:35:15.855Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 2%
+2023-09-10T09:35:15.856Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 3%
+2023-09-10T09:35:15.859Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 4%
+2023-09-10T09:35:15.865Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 5%
+2023-09-10T09:35:15.867Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 6%
+2023-09-10T09:35:15.869Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 7%
+2023-09-10T09:35:15.870Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 8%
+2023-09-10T09:35:15.872Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 9%
+2023-09-10T09:35:15.873Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 10%
+2023-09-10T09:35:15.874Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 11%
+2023-09-10T09:35:15.877Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 12%
+2023-09-10T09:35:15.880Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 13%
+2023-09-10T09:35:15.893Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 14%
+2023-09-10T09:35:15.894Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 15%
+2023-09-10T09:35:15.896Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 16%
+2023-09-10T09:35:15.897Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 17%
+2023-09-10T09:35:15.902Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 18%
+2023-09-10T09:35:15.903Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 19%
+2023-09-10T09:35:15.905Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 20%
+2023-09-10T09:35:15.906Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 21%
+2023-09-10T09:35:15.908Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 22%
+2023-09-10T09:35:15.909Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 23%
+2023-09-10T09:35:15.912Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 24%
+2023-09-10T09:35:15.913Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 25%
+2023-09-10T09:35:15.915Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 26%
+2023-09-10T09:35:15.916Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 27%
+2023-09-10T09:35:15.918Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 28%
+2023-09-10T09:35:15.919Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 29%
+2023-09-10T09:35:15.926Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 30%
+2023-09-10T09:35:15.927Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 31%
+2023-09-10T09:35:15.929Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 32%
+2023-09-10T09:35:15.930Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 33%
+2023-09-10T09:35:15.931Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 34%
+2023-09-10T09:35:15.933Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 35%
+2023-09-10T09:35:15.936Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 36%
+2023-09-10T09:35:15.937Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 37%
+2023-09-10T09:35:15.939Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 38%
+2023-09-10T09:35:15.940Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 39%
+2023-09-10T09:35:15.945Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 40%
+2023-09-10T09:35:15.946Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 41%
+2023-09-10T09:35:15.949Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 42%
+2023-09-10T09:35:15.950Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 43%
+2023-09-10T09:35:15.952Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 44%
+2023-09-10T09:35:15.953Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 45%
+2023-09-10T09:35:15.955Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 46%
+2023-09-10T09:35:15.956Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 47%
+2023-09-10T09:35:15.959Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 48%
+2023-09-10T09:35:15.960Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 49%
+2023-09-10T09:35:15.962Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 50%
+2023-09-10T09:35:15.965Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 51%
+2023-09-10T09:35:15.966Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 52%
+2023-09-10T09:35:15.967Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 53%
+2023-09-10T09:35:15.970Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 54%
+2023-09-10T09:35:15.972Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 55%
+2023-09-10T09:35:15.973Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 56%
+2023-09-10T09:35:15.974Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 57%
+2023-09-10T09:35:15.976Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 58%
+2023-09-10T09:35:15.978Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 59%
+2023-09-10T09:35:15.983Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 60%
+2023-09-10T09:35:15.984Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 61%
+2023-09-10T09:35:15.986Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 62%
+2023-09-10T09:35:15.991Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 63%
+2023-09-10T09:35:15.993Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 64%
+2023-09-10T09:35:15.994Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 65%
+2023-09-10T09:35:15.997Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 66%
+2023-09-10T09:35:15.998Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 67%
+2023-09-10T09:35:16.000Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 68%
+2023-09-10T09:35:16.001Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 69%
+2023-09-10T09:35:16.003Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 70%
+2023-09-10T09:35:16.004Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 71%
+2023-09-10T09:35:16.007Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 72%
+2023-09-10T09:35:16.008Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 73%
+2023-09-10T09:35:16.010Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 74%
+2023-09-10T09:35:16.011Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 75%
+2023-09-10T09:35:16.015Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 76%
+2023-09-10T09:35:16.016Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 77%
+2023-09-10T09:35:16.019Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 78%
+2023-09-10T09:35:16.021Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 79%
+2023-09-10T09:35:16.023Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 80%
+2023-09-10T09:35:16.024Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 81%
+2023-09-10T09:35:16.026Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 82%
+2023-09-10T09:35:16.027Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 83%
+2023-09-10T09:35:16.035Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 84%
+2023-09-10T09:35:16.036Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 85%
+2023-09-10T09:35:16.037Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 86%
+2023-09-10T09:35:16.039Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 87%
+2023-09-10T09:35:16.040Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 88%
+2023-09-10T09:35:16.042Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 89%
+2023-09-10T09:35:16.044Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 90%
+2023-09-10T09:35:16.046Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 91%
+2023-09-10T09:35:16.047Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 92%
+2023-09-10T09:35:16.049Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 93%
+2023-09-10T09:35:16.054Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 94%
+2023-09-10T09:35:16.057Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 95%
+2023-09-10T09:35:16.065Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 96%
+2023-09-10T09:35:16.067Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 97%
+2023-09-10T09:35:16.068Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 98%
+2023-09-10T09:35:16.070Z [Modules] Streaming discord_erlpack@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip: 100%
+2023-09-10T09:35:16.071Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-09-10T09:35:16.071Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip
+2023-09-10T09:35:16.278Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 1%
+2023-09-10T09:35:16.288Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 2%
+2023-09-10T09:35:16.298Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 3%
+2023-09-10T09:35:16.312Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 4%
+2023-09-10T09:35:16.321Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 5%
+2023-09-10T09:35:16.334Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 6%
+2023-09-10T09:35:16.342Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 7%
+2023-09-10T09:35:16.356Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 8%
+2023-09-10T09:35:16.366Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 9%
+2023-09-10T09:35:16.377Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 10%
+2023-09-10T09:35:16.393Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 11%
+2023-09-10T09:35:16.402Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 12%
+2023-09-10T09:35:16.411Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 13%
+2023-09-10T09:35:16.424Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 14%
+2023-09-10T09:35:16.432Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 15%
+2023-09-10T09:35:16.441Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 16%
+2023-09-10T09:35:16.452Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 17%
+2023-09-10T09:35:16.464Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 18%
+2023-09-10T09:35:16.473Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 19%
+2023-09-10T09:35:16.481Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 20%
+2023-09-10T09:35:16.490Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 21%
+2023-09-10T09:35:16.504Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 22%
+2023-09-10T09:35:16.512Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 23%
+2023-09-10T09:35:16.523Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 24%
+2023-09-10T09:35:16.533Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 25%
+2023-09-10T09:35:16.544Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 26%
+2023-09-10T09:35:16.553Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 27%
+2023-09-10T09:35:16.563Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 28%
+2023-09-10T09:35:16.574Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 29%
+2023-09-10T09:35:16.583Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 30%
+2023-09-10T09:35:16.592Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 31%
+2023-09-10T09:35:16.601Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 32%
+2023-09-10T09:35:16.614Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 33%
+2023-09-10T09:35:16.624Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 34%
+2023-09-10T09:35:16.634Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 35%
+2023-09-10T09:35:16.644Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 36%
+2023-09-10T09:35:16.654Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 37%
+2023-09-10T09:35:16.667Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 38%
+2023-09-10T09:35:16.682Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 39%
+2023-09-10T09:35:16.690Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 40%
+2023-09-10T09:35:16.700Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 41%
+2023-09-10T09:35:16.708Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 42%
+2023-09-10T09:35:16.719Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 43%
+2023-09-10T09:35:16.728Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 44%
+2023-09-10T09:35:16.747Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 45%
+2023-09-10T09:35:16.755Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 46%
+2023-09-10T09:35:16.764Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 47%
+2023-09-10T09:35:16.772Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 48%
+2023-09-10T09:35:16.785Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 49%
+2023-09-10T09:35:16.795Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 50%
+2023-09-10T09:35:16.804Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 51%
+2023-09-10T09:35:16.816Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 52%
+2023-09-10T09:35:16.828Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 53%
+2023-09-10T09:35:16.837Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 54%
+2023-09-10T09:35:16.848Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 55%
+2023-09-10T09:35:16.862Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 56%
+2023-09-10T09:35:16.872Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 57%
+2023-09-10T09:35:16.885Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 58%
+2023-09-10T09:35:16.895Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 59%
+2023-09-10T09:35:16.906Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 60%
+2023-09-10T09:35:16.915Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 61%
+2023-09-10T09:35:16.924Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 62%
+2023-09-10T09:35:16.936Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 63%
+2023-09-10T09:35:16.945Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 64%
+2023-09-10T09:35:16.954Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 65%
+2023-09-10T09:35:16.962Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 66%
+2023-09-10T09:35:16.977Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 67%
+2023-09-10T09:35:16.990Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 68%
+2023-09-10T09:35:16.998Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 69%
+2023-09-10T09:35:17.008Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 70%
+2023-09-10T09:35:17.017Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 71%
+2023-09-10T09:35:17.033Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 72%
+2023-09-10T09:35:17.044Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 73%
+2023-09-10T09:35:17.054Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 74%
+2023-09-10T09:35:17.062Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 75%
+2023-09-10T09:35:17.072Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 76%
+2023-09-10T09:35:17.081Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 77%
+2023-09-10T09:35:17.095Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 78%
+2023-09-10T09:35:17.106Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 79%
+2023-09-10T09:35:17.115Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 80%
+2023-09-10T09:35:17.126Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 81%
+2023-09-10T09:35:17.135Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 82%
+2023-09-10T09:35:17.151Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 83%
+2023-09-10T09:35:17.160Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 84%
+2023-09-10T09:35:17.170Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 85%
+2023-09-10T09:35:17.178Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 86%
+2023-09-10T09:35:17.186Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 87%
+2023-09-10T09:35:17.195Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 88%
+2023-09-10T09:35:17.208Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 89%
+2023-09-10T09:35:17.217Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 90%
+2023-09-10T09:35:17.228Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 91%
+2023-09-10T09:35:17.237Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 92%
+2023-09-10T09:35:17.245Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 93%
+2023-09-10T09:35:17.258Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 94%
+2023-09-10T09:35:17.269Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 95%
+2023-09-10T09:35:17.277Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 96%
+2023-09-10T09:35:17.290Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 97%
+2023-09-10T09:35:17.298Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 98%
+2023-09-10T09:35:17.310Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 99%
+2023-09-10T09:35:17.317Z [Modules] Streaming discord_spellcheck@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip: 100%
+2023-09-10T09:35:17.318Z [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/stable/discord_utils/2
+2023-09-10T09:35:17.318Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip
+2023-09-10T09:35:17.529Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 1%
+2023-09-10T09:35:17.532Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 2%
+2023-09-10T09:35:17.536Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 3%
+2023-09-10T09:35:17.538Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 4%
+2023-09-10T09:35:17.544Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 5%
+2023-09-10T09:35:17.547Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 6%
+2023-09-10T09:35:17.550Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 7%
+2023-09-10T09:35:17.553Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 8%
+2023-09-10T09:35:17.556Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 9%
+2023-09-10T09:35:17.560Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 10%
+2023-09-10T09:35:17.563Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 11%
+2023-09-10T09:35:17.565Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 12%
+2023-09-10T09:35:17.568Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 13%
+2023-09-10T09:35:17.572Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 14%
+2023-09-10T09:35:17.577Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 15%
+2023-09-10T09:35:17.580Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 16%
+2023-09-10T09:35:17.585Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 17%
+2023-09-10T09:35:17.588Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 18%
+2023-09-10T09:35:17.592Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 19%
+2023-09-10T09:35:17.595Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 20%
+2023-09-10T09:35:17.598Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 21%
+2023-09-10T09:35:17.601Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 22%
+2023-09-10T09:35:17.604Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 23%
+2023-09-10T09:35:17.609Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 24%
+2023-09-10T09:35:17.613Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 25%
+2023-09-10T09:35:17.616Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 26%
+2023-09-10T09:35:17.621Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 27%
+2023-09-10T09:35:17.625Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 28%
+2023-09-10T09:35:17.630Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 29%
+2023-09-10T09:35:17.636Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 30%
+2023-09-10T09:35:17.639Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 31%
+2023-09-10T09:35:17.642Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 32%
+2023-09-10T09:35:17.645Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 33%
+2023-09-10T09:35:17.650Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 34%
+2023-09-10T09:35:17.655Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 35%
+2023-09-10T09:35:17.658Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 36%
+2023-09-10T09:35:17.662Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 37%
+2023-09-10T09:35:17.669Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 38%
+2023-09-10T09:35:17.673Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 39%
+2023-09-10T09:35:17.676Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 40%
+2023-09-10T09:35:17.679Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 41%
+2023-09-10T09:35:17.682Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 42%
+2023-09-10T09:35:17.687Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 43%
+2023-09-10T09:35:17.690Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 44%
+2023-09-10T09:35:17.693Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 45%
+2023-09-10T09:35:17.696Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 46%
+2023-09-10T09:35:17.699Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 47%
+2023-09-10T09:35:17.707Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 48%
+2023-09-10T09:35:17.710Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 49%
+2023-09-10T09:35:17.713Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 50%
+2023-09-10T09:35:17.715Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 51%
+2023-09-10T09:35:17.718Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 52%
+2023-09-10T09:35:17.727Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 53%
+2023-09-10T09:35:17.729Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 54%
+2023-09-10T09:35:17.733Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 55%
+2023-09-10T09:35:17.736Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 56%
+2023-09-10T09:35:17.739Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 57%
+2023-09-10T09:35:17.746Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 58%
+2023-09-10T09:35:17.750Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 59%
+2023-09-10T09:35:17.752Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 60%
+2023-09-10T09:35:17.755Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 61%
+2023-09-10T09:35:17.758Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 62%
+2023-09-10T09:35:17.763Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 63%
+2023-09-10T09:35:17.766Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 64%
+2023-09-10T09:35:17.769Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 65%
+2023-09-10T09:35:17.771Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 66%
+2023-09-10T09:35:17.776Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 67%
+2023-09-10T09:35:17.780Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 68%
+2023-09-10T09:35:17.784Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 69%
+2023-09-10T09:35:17.787Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 70%
+2023-09-10T09:35:17.790Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 71%
+2023-09-10T09:35:17.794Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 72%
+2023-09-10T09:35:17.797Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 73%
+2023-09-10T09:35:17.800Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 74%
+2023-09-10T09:35:17.803Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 75%
+2023-09-10T09:35:17.810Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 76%
+2023-09-10T09:35:17.814Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 77%
+2023-09-10T09:35:17.817Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 78%
+2023-09-10T09:35:17.820Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 79%
+2023-09-10T09:35:17.823Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 80%
+2023-09-10T09:35:17.826Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 81%
+2023-09-10T09:35:17.830Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 82%
+2023-09-10T09:35:17.833Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 83%
+2023-09-10T09:35:17.836Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 84%
+2023-09-10T09:35:17.839Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 85%
+2023-09-10T09:35:17.842Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 86%
+2023-09-10T09:35:17.846Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 87%
+2023-09-10T09:35:17.849Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 88%
+2023-09-10T09:35:17.853Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 89%
+2023-09-10T09:35:17.856Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 90%
+2023-09-10T09:35:17.859Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 91%
+2023-09-10T09:35:17.866Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 92%
+2023-09-10T09:35:17.869Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 93%
+2023-09-10T09:35:17.872Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 94%
+2023-09-10T09:35:17.875Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 95%
+2023-09-10T09:35:17.879Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 96%
+2023-09-10T09:35:17.882Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 97%
+2023-09-10T09:35:17.884Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 98%
+2023-09-10T09:35:17.887Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 99%
+2023-09-10T09:35:17.889Z [Modules] Streaming discord_utils@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip: 100%
+2023-09-10T09:35:17.890Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2023-09-10T09:35:17.890Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip
+2023-09-10T09:35:18.091Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 1%
+2023-09-10T09:35:18.111Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 2%
+2023-09-10T09:35:18.133Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 3%
+2023-09-10T09:35:18.157Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 4%
+2023-09-10T09:35:18.176Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 5%
+2023-09-10T09:35:18.194Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 6%
+2023-09-10T09:35:18.213Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 7%
+2023-09-10T09:35:18.231Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 8%
+2023-09-10T09:35:18.251Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 9%
+2023-09-10T09:35:18.268Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 10%
+2023-09-10T09:35:18.294Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 11%
+2023-09-10T09:35:18.312Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 12%
+2023-09-10T09:35:18.334Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 13%
+2023-09-10T09:35:18.353Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 14%
+2023-09-10T09:35:18.371Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 15%
+2023-09-10T09:35:18.393Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 16%
+2023-09-10T09:35:18.410Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 17%
+2023-09-10T09:35:18.430Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 18%
+2023-09-10T09:35:18.447Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 19%
+2023-09-10T09:35:18.472Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 20%
+2023-09-10T09:35:18.489Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 21%
+2023-09-10T09:35:18.507Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 22%
+2023-09-10T09:35:18.527Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 23%
+2023-09-10T09:35:18.548Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 24%
+2023-09-10T09:35:18.566Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 25%
+2023-09-10T09:35:18.587Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 26%
+2023-09-10T09:35:18.608Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 27%
+2023-09-10T09:35:18.630Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 28%
+2023-09-10T09:35:18.654Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 29%
+2023-09-10T09:35:18.677Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 30%
+2023-09-10T09:35:18.696Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 31%
+2023-09-10T09:35:18.718Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 32%
+2023-09-10T09:35:18.740Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 33%
+2023-09-10T09:35:18.762Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 34%
+2023-09-10T09:35:18.789Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 35%
+2023-09-10T09:35:18.807Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 36%
+2023-09-10T09:35:18.827Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 37%
+2023-09-10T09:35:18.845Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 38%
+2023-09-10T09:35:18.866Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 39%
+2023-09-10T09:35:18.885Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 40%
+2023-09-10T09:35:18.904Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 41%
+2023-09-10T09:35:18.924Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 42%
+2023-09-10T09:35:18.946Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 43%
+2023-09-10T09:35:18.964Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 44%
+2023-09-10T09:35:18.984Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 45%
+2023-09-10T09:35:19.004Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 46%
+2023-09-10T09:35:19.022Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 47%
+2023-09-10T09:35:19.041Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 48%
+2023-09-10T09:35:19.065Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 49%
+2023-09-10T09:35:19.081Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 50%
+2023-09-10T09:35:19.103Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 51%
+2023-09-10T09:35:19.125Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 52%
+2023-09-10T09:35:19.144Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 53%
+2023-09-10T09:35:19.166Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 54%
+2023-09-10T09:35:19.191Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 55%
+2023-09-10T09:35:19.210Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 56%
+2023-09-10T09:35:19.227Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 57%
+2023-09-10T09:35:19.255Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 58%
+2023-09-10T09:35:19.275Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 59%
+2023-09-10T09:35:19.296Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 60%
+2023-09-10T09:35:19.318Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 61%
+2023-09-10T09:35:19.339Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 62%
+2023-09-10T09:35:19.359Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 63%
+2023-09-10T09:35:19.381Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 64%
+2023-09-10T09:35:19.401Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 65%
+2023-09-10T09:35:19.420Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 66%
+2023-09-10T09:35:19.443Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 67%
+2023-09-10T09:35:19.461Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 68%
+2023-09-10T09:35:19.484Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 69%
+2023-09-10T09:35:19.502Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 70%
+2023-09-10T09:35:19.524Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 71%
+2023-09-10T09:35:19.545Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 72%
+2023-09-10T09:35:19.568Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 73%
+2023-09-10T09:35:19.589Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 74%
+2023-09-10T09:35:19.612Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 75%
+2023-09-10T09:35:19.634Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 76%
+2023-09-10T09:35:19.666Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 77%
+2023-09-10T09:35:19.686Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 78%
+2023-09-10T09:35:19.708Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 79%
+2023-09-10T09:35:19.733Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 80%
+2023-09-10T09:35:19.750Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 81%
+2023-09-10T09:35:19.774Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 82%
+2023-09-10T09:35:19.794Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 83%
+2023-09-10T09:35:19.817Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 84%
+2023-09-10T09:35:19.840Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 85%
+2023-09-10T09:35:19.862Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 86%
+2023-09-10T09:35:19.882Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 87%
+2023-09-10T09:35:19.900Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 88%
+2023-09-10T09:35:19.927Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 89%
+2023-09-10T09:35:19.949Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 90%
+2023-09-10T09:35:19.969Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 91%
+2023-09-10T09:35:19.990Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 92%
+2023-09-10T09:35:20.011Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 93%
+2023-09-10T09:35:20.030Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 94%
+2023-09-10T09:35:20.056Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 95%
+2023-09-10T09:35:20.075Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 96%
+2023-09-10T09:35:20.097Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 97%
+2023-09-10T09:35:20.115Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 98%
+2023-09-10T09:35:20.133Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 99%
+2023-09-10T09:35:20.153Z [Modules] Streaming discord_voice@2 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip: 100%
+2023-09-10T09:35:20.154Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-09-10T09:35:20.155Z [Modules] Installing updates...
+2023-09-10T09:35:20.155Z [Modules] Installing discord_desktop_core@2 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_desktop_core-2.zip
+2023-09-10T09:35:20.214Z [Modules] Installing discord_erlpack@1 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_erlpack-1.zip
+2023-09-10T09:35:20.266Z [Modules] Installing discord_spellcheck@1 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_spellcheck-1.zip
+2023-09-10T09:35:20.918Z [Modules] Installing discord_utils@2 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_utils-2.zip
+2023-09-10T09:35:21.294Z [Modules] Installing discord_voice@2 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_voice-2.zip
+2023-09-10T09:35:21.915Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-09-10T09:35:21.916Z [Modules] Checking for host updates.
+2023-09-10T09:35:22.088Z [Modules] Host is up to date.
+2023-09-10T09:35:22.089Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T09:35:22.096Z [Modules] No module updates available.
+2023-09-10T09:35:23.765Z [Modules] Starting to install discord_krisp...
+2023-09-10T09:35:23.765Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-09-10T09:35:23.766Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip
+2023-09-10T09:35:23.781Z [Modules] Starting to install discord_game_utils...
+2023-09-10T09:35:23.982Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 1%
+2023-09-10T09:35:24.001Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 2%
+2023-09-10T09:35:24.025Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 3%
+2023-09-10T09:35:24.047Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 4%
+2023-09-10T09:35:24.070Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 5%
+2023-09-10T09:35:24.095Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 6%
+2023-09-10T09:35:24.119Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 7%
+2023-09-10T09:35:24.137Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 8%
+2023-09-10T09:35:24.260Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 9%
+2023-09-10T09:35:24.270Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 10%
+2023-09-10T09:35:24.274Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 11%
+2023-09-10T09:35:24.277Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 12%
+2023-09-10T09:35:24.281Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 13%
+2023-09-10T09:35:24.284Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 14%
+2023-09-10T09:35:24.295Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 15%
+2023-09-10T09:35:24.315Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 16%
+2023-09-10T09:35:24.348Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 17%
+2023-09-10T09:35:24.373Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 18%
+2023-09-10T09:35:24.402Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 19%
+2023-09-10T09:35:24.424Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 20%
+2023-09-10T09:35:24.444Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 21%
+2023-09-10T09:35:24.470Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 22%
+2023-09-10T09:35:24.516Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 23%
+2023-09-10T09:35:24.541Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 24%
+2023-09-10T09:35:24.567Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 25%
+2023-09-10T09:35:24.593Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 26%
+2023-09-10T09:35:24.616Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 27%
+2023-09-10T09:35:24.639Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 28%
+2023-09-10T09:35:24.660Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 29%
+2023-09-10T09:35:24.664Z [Modules] Checking for host updates.
+2023-09-10T09:35:24.681Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 30%
+2023-09-10T09:35:24.701Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 31%
+2023-09-10T09:35:24.724Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 32%
+2023-09-10T09:35:24.749Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 33%
+2023-09-10T09:35:24.769Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 34%
+2023-09-10T09:35:24.793Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 35%
+2023-09-10T09:35:24.813Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 36%
+2023-09-10T09:35:24.836Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 37%
+2023-09-10T09:35:24.857Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 38%
+2023-09-10T09:35:24.868Z [Modules] Host is up to date.
+2023-09-10T09:35:24.868Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T09:35:24.870Z [Modules] No module updates available.
+2023-09-10T09:35:24.879Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 39%
+2023-09-10T09:35:24.898Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 40%
+2023-09-10T09:35:24.920Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 41%
+2023-09-10T09:35:24.946Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 42%
+2023-09-10T09:35:24.969Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 43%
+2023-09-10T09:35:24.994Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 44%
+2023-09-10T09:35:25.017Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 45%
+2023-09-10T09:35:25.040Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 46%
+2023-09-10T09:35:25.061Z [Modules] Starting to install discord_rpc...
+2023-09-10T09:35:25.068Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 47%
+2023-09-10T09:35:25.089Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 48%
+2023-09-10T09:35:25.114Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 49%
+2023-09-10T09:35:25.136Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 50%
+2023-09-10T09:35:25.161Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 51%
+2023-09-10T09:35:25.187Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 52%
+2023-09-10T09:35:25.212Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 53%
+2023-09-10T09:35:25.233Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 54%
+2023-09-10T09:35:25.262Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 55%
+2023-09-10T09:35:25.290Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 56%
+2023-09-10T09:35:25.322Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 57%
+2023-09-10T09:35:25.347Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 58%
+2023-09-10T09:35:25.367Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 59%
+2023-09-10T09:35:25.393Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 60%
+2023-09-10T09:35:25.415Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 61%
+2023-09-10T09:35:25.446Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 62%
+2023-09-10T09:35:25.468Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 63%
+2023-09-10T09:35:25.491Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 64%
+2023-09-10T09:35:25.516Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 65%
+2023-09-10T09:35:25.773Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 66%
+2023-09-10T09:35:25.797Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 67%
+2023-09-10T09:35:25.823Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 68%
+2023-09-10T09:35:25.845Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 69%
+2023-09-10T09:35:25.869Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 70%
+2023-09-10T09:35:25.889Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 71%
+2023-09-10T09:35:25.912Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 72%
+2023-09-10T09:35:25.940Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 73%
+2023-09-10T09:35:25.966Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 74%
+2023-09-10T09:35:25.988Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 75%
+2023-09-10T09:35:26.010Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 76%
+2023-09-10T09:35:26.033Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 77%
+2023-09-10T09:35:26.052Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 78%
+2023-09-10T09:35:26.081Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 79%
+2023-09-10T09:35:26.106Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 80%
+2023-09-10T09:35:26.130Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 81%
+2023-09-10T09:35:26.151Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 82%
+2023-09-10T09:35:26.173Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 83%
+2023-09-10T09:35:26.196Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 84%
+2023-09-10T09:35:26.226Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 85%
+2023-09-10T09:35:26.246Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 86%
+2023-09-10T09:35:26.267Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 87%
+2023-09-10T09:35:26.289Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 88%
+2023-09-10T09:35:26.315Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 89%
+2023-09-10T09:35:26.341Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 90%
+2023-09-10T09:35:26.365Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 91%
+2023-09-10T09:35:26.388Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 92%
+2023-09-10T09:35:26.409Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 93%
+2023-09-10T09:35:26.430Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 94%
+2023-09-10T09:35:26.454Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 95%
+2023-09-10T09:35:26.476Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 96%
+2023-09-10T09:35:26.495Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 97%
+2023-09-10T09:35:26.522Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 98%
+2023-09-10T09:35:26.551Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 99%
+2023-09-10T09:35:26.570Z [Modules] Streaming discord_krisp@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip: 100%
+2023-09-10T09:35:26.571Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-09-10T09:35:26.571Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip
+2023-09-10T09:35:26.571Z [Modules] Installing discord_krisp@1 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_krisp-1.zip
+2023-09-10T09:35:26.770Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 1%
+2023-09-10T09:35:26.773Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 2%
+2023-09-10T09:35:26.779Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 3%
+2023-09-10T09:35:26.788Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 7%
+2023-09-10T09:35:26.791Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 8%
+2023-09-10T09:35:26.792Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 9%
+2023-09-10T09:35:26.795Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 10%
+2023-09-10T09:35:26.796Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 11%
+2023-09-10T09:35:26.799Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 12%
+2023-09-10T09:35:26.802Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 13%
+2023-09-10T09:35:26.803Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 14%
+2023-09-10T09:35:26.806Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 15%
+2023-09-10T09:35:26.808Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 16%
+2023-09-10T09:35:26.810Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 17%
+2023-09-10T09:35:26.812Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 18%
+2023-09-10T09:35:26.815Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 19%
+2023-09-10T09:35:26.816Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 20%
+2023-09-10T09:35:26.819Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 21%
+2023-09-10T09:35:26.820Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 22%
+2023-09-10T09:35:26.823Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 23%
+2023-09-10T09:35:26.825Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 24%
+2023-09-10T09:35:26.828Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 25%
+2023-09-10T09:35:26.831Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 26%
+2023-09-10T09:35:26.832Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 27%
+2023-09-10T09:35:26.835Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 28%
+2023-09-10T09:35:26.837Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 29%
+2023-09-10T09:35:26.843Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 30%
+2023-09-10T09:35:26.845Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 31%
+2023-09-10T09:35:26.848Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 32%
+2023-09-10T09:35:26.849Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 33%
+2023-09-10T09:35:26.852Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 34%
+2023-09-10T09:35:26.853Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 35%
+2023-09-10T09:35:26.856Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 36%
+2023-09-10T09:35:26.857Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 37%
+2023-09-10T09:35:26.861Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 38%
+2023-09-10T09:35:26.872Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 39%
+2023-09-10T09:35:26.873Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 40%
+2023-09-10T09:35:26.880Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 43%
+2023-09-10T09:35:26.881Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 44%
+2023-09-10T09:35:26.884Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 45%
+2023-09-10T09:35:26.887Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 46%
+2023-09-10T09:35:26.892Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 47%
+2023-09-10T09:35:26.894Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 48%
+2023-09-10T09:35:26.899Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 49%
+2023-09-10T09:35:26.900Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 50%
+2023-09-10T09:35:26.903Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 51%
+2023-09-10T09:35:26.907Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 52%
+2023-09-10T09:35:26.909Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 53%
+2023-09-10T09:35:26.912Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 54%
+2023-09-10T09:35:26.914Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 55%
+2023-09-10T09:35:26.919Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 56%
+2023-09-10T09:35:26.921Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 57%
+2023-09-10T09:35:26.923Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 58%
+2023-09-10T09:35:26.925Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 59%
+2023-09-10T09:35:26.928Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 60%
+2023-09-10T09:35:26.929Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 61%
+2023-09-10T09:35:26.932Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 62%
+2023-09-10T09:35:26.933Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 63%
+2023-09-10T09:35:26.936Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 64%
+2023-09-10T09:35:26.939Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 65%
+2023-09-10T09:35:26.940Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 66%
+2023-09-10T09:35:26.943Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 67%
+2023-09-10T09:35:26.945Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 68%
+2023-09-10T09:35:26.948Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-09-10T09:35:26.948Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 69%
+2023-09-10T09:35:26.949Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 70%
+2023-09-10T09:35:26.952Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 71%
+2023-09-10T09:35:26.953Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 72%
+2023-09-10T09:35:26.959Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 73%
+2023-09-10T09:35:26.961Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 74%
+2023-09-10T09:35:26.964Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 75%
+2023-09-10T09:35:26.966Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 76%
+2023-09-10T09:35:26.969Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 77%
+2023-09-10T09:35:26.974Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 78%
+2023-09-10T09:35:26.981Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 79%
+2023-09-10T09:35:26.984Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 80%
+2023-09-10T09:35:26.987Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 81%
+2023-09-10T09:35:26.990Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 82%
+2023-09-10T09:35:26.991Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 83%
+2023-09-10T09:35:26.996Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 84%
+2023-09-10T09:35:26.998Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 85%
+2023-09-10T09:35:27.001Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 86%
+2023-09-10T09:35:27.002Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 87%
+2023-09-10T09:35:27.007Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 88%
+2023-09-10T09:35:27.008Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 89%
+2023-09-10T09:35:27.011Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 90%
+2023-09-10T09:35:27.016Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 91%
+2023-09-10T09:35:27.021Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 92%
+2023-09-10T09:35:27.024Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 93%
+2023-09-10T09:35:27.025Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 94%
+2023-09-10T09:35:27.028Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 95%
+2023-09-10T09:35:27.031Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 96%
+2023-09-10T09:35:27.034Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 97%
+2023-09-10T09:35:27.036Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 98%
+2023-09-10T09:35:27.039Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 99%
+2023-09-10T09:35:27.040Z [Modules] Streaming discord_game_utils@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip: 100%
+2023-09-10T09:35:27.041Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-09-10T09:35:27.041Z [Modules] Streaming discord_rpc@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_rpc-1.zip
+2023-09-10T09:35:27.041Z [Modules] Installing discord_game_utils@1 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_game_utils-1.zip
+2023-09-10T09:35:27.098Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-09-10T09:35:27.225Z [Modules] Streaming discord_rpc@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_rpc-1.zip: 38%
+2023-09-10T09:35:27.226Z [Modules] Streaming discord_rpc@1 to /home/alpha/.config/discord/0.0.29/modules/pending/discord_rpc-1.zip: 100%
+2023-09-10T09:35:27.227Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-09-10T09:35:27.227Z [Modules] Installing discord_rpc@1 from /home/alpha/.config/discord/0.0.29/modules/pending/discord_rpc-1.zip
+2023-09-10T09:35:27.239Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-09-10T15:10:36.092Z [Modules] Modules initializing
+2023-09-10T15:10:36.099Z [Modules] Distribution: remote
+2023-09-10T15:10:36.099Z [Modules] Host updates: enabled
+2023-09-10T15:10:36.099Z [Modules] Module updates: enabled
+2023-09-10T15:10:36.101Z [Modules] Module install path: /home/alpha/.config/discord/0.0.29/modules
+2023-09-10T15:10:36.101Z [Modules] Module installed file path: /home/alpha/.config/discord/0.0.29/modules/installed.json
+2023-09-10T15:10:36.101Z [Modules] Module download path: /home/alpha/.config/discord/0.0.29/modules/pending
+2023-09-10T15:10:36.413Z [Modules] No updates to install
+2023-09-10T15:10:36.414Z [Modules] Checking for host updates.
+2023-09-10T15:10:36.691Z [Modules] Host is up to date.
+2023-09-10T15:10:36.692Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T15:10:36.731Z [Modules] No module updates available.
+2023-09-10T15:10:39.912Z [Modules] Checking for host updates.
+2023-09-10T15:10:40.078Z [Modules] Host is up to date.
+2023-09-10T15:10:40.078Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T15:10:40.080Z [Modules] No module updates available.
+2023-09-10T15:22:08.343Z [Modules] Modules initializing
+2023-09-10T15:22:08.343Z [Modules] Distribution: remote
+2023-09-10T15:22:08.343Z [Modules] Host updates: enabled
+2023-09-10T15:22:08.344Z [Modules] Module updates: enabled
+2023-09-10T15:22:08.344Z [Modules] Module install path: /home/alpha/.config/discord/0.0.29/modules
+2023-09-10T15:22:08.344Z [Modules] Module installed file path: /home/alpha/.config/discord/0.0.29/modules/installed.json
+2023-09-10T15:22:08.344Z [Modules] Module download path: /home/alpha/.config/discord/0.0.29/modules/pending
+2023-09-10T15:22:08.494Z [Modules] No updates to install
+2023-09-10T15:22:08.495Z [Modules] Checking for host updates.
+2023-09-10T15:22:08.738Z [Modules] Host is up to date.
+2023-09-10T15:22:08.739Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T15:22:08.780Z [Modules] No module updates available.
+2023-09-10T15:22:11.015Z [Modules] Checking for host updates.
+2023-09-10T15:22:11.159Z [Modules] Host is up to date.
+2023-09-10T15:22:11.159Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-10T15:22:11.161Z [Modules] No module updates available.
