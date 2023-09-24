@@ -1,2 +1,11 @@
 .config/discord/**/*
 .config/Code*
+.config/discord/Cookies
+.config/discord/Cookies-journal
+.config/discord/modules.log
+.config/discord/Network Persistent State
+.config/discord/settings.json
+.config/discord/SingletonCookie
+.config/discord/SingletonLock
+.config/discord/SingletonSocket
+.config/discord/TransportSecurity
