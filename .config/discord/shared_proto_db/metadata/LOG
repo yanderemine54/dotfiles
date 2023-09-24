@@ -1,2 +1,3 @@
-2023/09/10-11:35:25.269 8a71 Creating DB /home/alpha/.config/discord/shared_proto_db/metadata since it was missing.
-2023/09/10-11:35:25.281 8a71 Reusing MANIFEST /home/alpha/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2023/09/24-11:16:15.859 322c Reusing MANIFEST /home/alpha/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2023/09/24-11:16:15.859 322c Recovering log #3
+2023/09/24-11:16:15.859 322c Reusing old log /home/alpha/.config/discord/shared_proto_db/metadata/000003.log 

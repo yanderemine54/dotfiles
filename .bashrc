@@ -10,4 +10,5 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 # launch fish
+. "$HOME/.cargo/env"
 exec fish

@@ -1,3 +1,23 @@
-2023/09/10-17:22:08.338 1aaf Reusing MANIFEST /home/alpha/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/09/10-17:22:08.338 1aaf Recovering log #5
-2023/09/10-17:22:08.338 1aaf Reusing old log /home/alpha/.config/discord/Local Storage/leveldb/000005.log 
+2023/09/24-11:15:54.886 3264 Reusing MANIFEST /home/alpha/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/09/24-11:15:54.886 3264 Recovering log #94
+2023/09/24-11:15:54.886 3264 Reusing old log /home/alpha/.config/discord/Local Storage/leveldb/000094.log 
+2023/09/24-11:17:55.754 322c Level-0 table #98: started
+2023/09/24-11:17:55.785 322c Level-0 table #98: 1920824 bytes OK
+2023/09/24-11:17:55.791 322c Delete type=0 #94
+2023/09/24-14:21:40.859 3f52 Level-0 table #100: started
+2023/09/24-14:21:40.865 3f52 Level-0 table #100: 25104 bytes OK
+2023/09/24-14:21:40.870 3f52 Delete type=0 #97
+2023/09/24-14:36:39.469 5d97 Level-0 table #102: started
+2023/09/24-14:36:39.474 5d97 Level-0 table #102: 17681 bytes OK
+2023/09/24-14:36:39.481 5d97 Delete type=0 #99
+2023/09/24-14:36:39.481 5d97 Compacting 4@0 + 2@1 files
+2023/09/24-14:36:39.547 5d97 Generated table #103@0: 103 keys, 3856231 bytes
+2023/09/24-14:36:39.551 5d97 Generated table #104@0: 32 keys, 3575 bytes
+2023/09/24-14:36:39.551 5d97 Compacted 4@0 + 2@1 files => 3859806 bytes
+2023/09/24-14:36:39.556 5d97 compacted to: files[ 0 2 0 0 0 0 0 ]
+2023/09/24-14:36:39.556 5d97 Delete type=2 #100
+2023/09/24-14:36:39.556 5d97 Delete type=2 #91
+2023/09/24-14:36:39.556 5d97 Delete type=2 #98
+2023/09/24-14:36:39.556 5d97 Delete type=2 #92
+2023/09/24-14:36:39.556 5d97 Delete type=2 #102
+2023/09/24-14:36:39.556 5d97 Delete type=2 #95
